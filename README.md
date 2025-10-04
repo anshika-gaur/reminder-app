@@ -23,7 +23,7 @@ This is a simple Reminder App .
 ## Technologies Used
 
 - HTML, CSS (Tailwind CSS)
-- JavaScript (Vanilla)
+- JavaScript
 - Service Workers for background notifications
 - LocalStorage for data persistence
 
